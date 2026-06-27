@@ -1,0 +1,11 @@
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Cmd.Domain.deps.json
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Cmd.Domain.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Cmd.Domain.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.AssemblyInfoInputs.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.AssemblyInfo.cs
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.csproj.CoreCompileInputs.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\refint\Post.Cmd.Domain.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\ref\Post.Cmd.Domain.dll

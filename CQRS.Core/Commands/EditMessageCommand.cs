@@ -1,6 +1,6 @@
 ﻿namespace CQRS.Core.Commands;
 
-public class EditMessageCommand
+public class EditMessageCommand:BaseCommand
 {
-    
+    public string Message { get; set; }
 }

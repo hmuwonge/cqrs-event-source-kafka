@@ -1,0 +1,12 @@
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\bin\Debug\net10.0\Post.Query.Infrastructure.deps.json
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\bin\Debug\net10.0\Post.Query.Infrastructure.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\bin\Debug\net10.0\Post.Query.Infrastructure.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net10.0\Post.Query.Infrastructure.csproj.AssemblyReference.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net10.0\Post.Query.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net10.0\Post.Query.Infrastructure.AssemblyInfoInputs.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net10.0\Post.Query.Infrastructure.AssemblyInfo.cs
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net10.0\Post.Query.Infrastructure.csproj.CoreCompileInputs.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net10.0\Post.Query.Infrastructure.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net10.0\refint\Post.Query.Infrastructure.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net10.0\Post.Query.Infrastructure.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Infrastructure\obj\Debug\net10.0\ref\Post.Query.Infrastructure.dll

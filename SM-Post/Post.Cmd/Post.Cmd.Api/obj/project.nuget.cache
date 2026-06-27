@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MuRpNQZN8oE=",
+  "success": true,
+  "projectFilePath": "D:\\LEARN\\CQRS-ES\\SM-Post\\Post.Cmd\\Post.Cmd.Api\\Post.Cmd.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAAVASOFT\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\SAAVASOFT\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

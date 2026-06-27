@@ -1,6 +1,6 @@
 ﻿namespace CQRS.Core.Commands;
 
-public class ListPostCommand
+public class ListPostCommand: BaseCommand
 {
     
 }

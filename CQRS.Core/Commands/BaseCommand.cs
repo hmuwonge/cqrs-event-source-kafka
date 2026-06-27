@@ -1,6 +1,8 @@
-﻿namespace CQRS.Core.Commands;
+﻿using CQRS.Core.Messages;
 
-public class BaseCommand
+namespace CQRS.Core.Commands;
+
+public abstract class BaseCommand: Message
 {
     
 }

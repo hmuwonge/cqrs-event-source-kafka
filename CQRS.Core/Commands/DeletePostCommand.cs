@@ -1,6 +1,6 @@
 ﻿namespace CQRS.Core.Commands;
 
-public class DeletePostCommand
+public class DeletePostCommand1:BaseCommand
 {
-    
+    public string Username { get; set; }
 }

@@ -1,0 +1,11 @@
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\bin\Debug\net10.0\Post.Common.deps.json
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\bin\Debug\net10.0\Post.Common.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\bin\Debug\net10.0\Post.Common.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\obj\Debug\net10.0\Post.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\obj\Debug\net10.0\Post.Common.AssemblyInfoInputs.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\obj\Debug\net10.0\Post.Common.AssemblyInfo.cs
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\obj\Debug\net10.0\Post.Common.csproj.CoreCompileInputs.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\obj\Debug\net10.0\Post.Common.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\obj\Debug\net10.0\refint\Post.Common.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\obj\Debug\net10.0\Post.Common.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Common\obj\Debug\net10.0\ref\Post.Common.dll

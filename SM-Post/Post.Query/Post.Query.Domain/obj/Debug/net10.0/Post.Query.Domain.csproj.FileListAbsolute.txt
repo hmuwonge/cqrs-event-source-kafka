@@ -1,0 +1,11 @@
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net10.0\Post.Query.Domain.deps.json
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net10.0\Post.Query.Domain.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\bin\Debug\net10.0\Post.Query.Domain.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\Post.Query.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\Post.Query.Domain.AssemblyInfoInputs.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\Post.Query.Domain.AssemblyInfo.cs
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\Post.Query.Domain.csproj.CoreCompileInputs.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\Post.Query.Domain.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\refint\Post.Query.Domain.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\Post.Query.Domain.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\ref\Post.Query.Domain.dll

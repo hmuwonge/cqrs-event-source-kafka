@@ -1,6 +1,12 @@
-﻿namespace Post.Common.Events;
+﻿using CQRS.Core.Events;
 
-public class PostRemovedEvent
+namespace Post.Common.Events;
+
+public class PostRemovedEvent:BaseEvent
 {
+    public PostRemovedEvent(string type) : base(type)
+    {
+    }
+    
     
 }

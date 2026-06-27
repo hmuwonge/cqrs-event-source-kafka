@@ -1,6 +1,14 @@
-﻿namespace Post.Common.Events;
+﻿using CQRS.Core.Events;
 
-public class PostCreatedEvent
+namespace Post.Common.Events;
+
+public class PostCreatedEvent: BaseEvent
 {
+    public PostCreatedEvent() : base(nameof(PostCreatedEvent))
+    {
+    }
     
+    public string Author { get; set; }
+    public string Message { get; set; }
+    public DateTime DatePosted { get; set; }
 }
