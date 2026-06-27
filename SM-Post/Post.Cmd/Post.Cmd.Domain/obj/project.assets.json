@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "CQRS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CQRS.Core.dll": {}
+        }
+      },
+      "Post.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CQRS.Core/1.0.0": {
+      "type": "project",
+      "path": "../../../CQRS.Core/CQRS.Core.csproj",
+      "msbuildProject": "../../../CQRS.Core/CQRS.Core.csproj"
+    },
+    "Post.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Post.Common/Post.Common.csproj",
+      "msbuildProject": "../../Post.Common/Post.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "CQRS.Core >= 1.0.0",
+      "Post.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\SAAVASOFT\\.nuget\\packages\\": {},
@@ -39,7 +77,14 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\LEARN\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
+              "projectPath": "D:\\LEARN\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+            },
+            "D:\\LEARN\\CQRS-ES\\SM-Post\\Post.Common\\Post.Common.csproj": {
+              "projectPath": "D:\\LEARN\\CQRS-ES\\SM-Post\\Post.Common\\Post.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

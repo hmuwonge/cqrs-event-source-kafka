@@ -10,3 +10,7 @@ D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net10.0\Post
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net10.0\refint\Post.Cmd.Infrastructure.dll
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net10.0\Post.Cmd.Infrastructure.pdb
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net10.0\ref\Post.Cmd.Infrastructure.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net10.0\CQRS.Core.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\bin\Debug\net10.0\CQRS.Core.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net10.0\Post.Cmd.Infrastructure.sourcelink.json
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Infrastructure\obj\Debug\net10.0\Post.Cmd.E4399A87.Up2Date

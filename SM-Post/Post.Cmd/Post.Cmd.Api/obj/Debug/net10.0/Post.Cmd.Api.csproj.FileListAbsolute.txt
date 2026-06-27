@@ -31,3 +31,4 @@ D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net10.0\refint\Post.Cmd
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net10.0\Post.Cmd.Api.pdb
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net10.0\Post.Cmd.Api.genruntimeconfig.cache
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net10.0\ref\Post.Cmd.Api.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Api\obj\Debug\net10.0\Post.Cmd.Api.sourcelink.json

@@ -9,3 +9,4 @@ D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Dom
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\refint\Post.Cmd.Domain.dll
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.pdb
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\ref\Post.Cmd.Domain.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.sourcelink.json

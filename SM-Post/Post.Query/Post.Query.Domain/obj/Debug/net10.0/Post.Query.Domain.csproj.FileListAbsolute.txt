@@ -9,3 +9,4 @@ D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\Post.Que
 D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\refint\Post.Query.Domain.dll
 D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\Post.Query.Domain.pdb
 D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\ref\Post.Query.Domain.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Domain\obj\Debug\net10.0\Post.Query.Domain.sourcelink.json

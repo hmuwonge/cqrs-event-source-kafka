@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "Post.Common/1.0.0": {
+        "dependencies": {
+          "CQRS.Core": "1.0.0"
+        },
         "runtime": {
           "Post.Common.dll": {}
+        }
+      },
+      "CQRS.Core/1.0.0": {
+        "runtime": {
+          "CQRS.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Post.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CQRS.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

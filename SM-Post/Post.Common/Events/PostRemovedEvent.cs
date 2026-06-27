@@ -4,7 +4,7 @@ namespace Post.Common.Events;
 
 public class PostRemovedEvent:BaseEvent
 {
-    public PostRemovedEvent(string type) : base(type)
+    public PostRemovedEvent() : base(nameof(PostRemovedEvent))
     {
     }
     

@@ -31,3 +31,4 @@ D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net10.0\refint\Post
 D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net10.0\Post.Query.Api.pdb
 D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net10.0\Post.Query.Api.genruntimeconfig.cache
 D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net10.0\ref\Post.Query.Api.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Query\Post.Query.Api\obj\Debug\net10.0\Post.Query.Api.sourcelink.json

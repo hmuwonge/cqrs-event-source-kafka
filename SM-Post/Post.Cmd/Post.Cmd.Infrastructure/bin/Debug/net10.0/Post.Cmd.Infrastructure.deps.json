@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v10.0": {
       "Post.Cmd.Infrastructure/1.0.0": {
         "dependencies": {
+          "CQRS.Core": "1.0.0",
           "Confluent.Kafka": "2.14.2",
           "Microsoft.Extensions.Options": "10.0.9",
           "MongoDB.Driver": "3.9.0"
@@ -252,6 +253,14 @@
             "fileVersion": "0.7.3.0"
           }
         }
+      },
+      "CQRS.Core/1.0.0": {
+        "runtime": {
+          "CQRS.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -344,6 +353,11 @@
       "sha512": "sha512-U9Ix4l4cl58Kzz1rJzj5hoVTjmbx1qGMwzAcbv1j/d3NzrFaESIurQyg+ow4mivCgkE3S413y+U9k4WdnEIkRA==",
       "path": "zstdsharp.port/0.7.3",
       "hashPath": "zstdsharp.port.0.7.3.nupkg.sha512"
+    },
+    "CQRS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
