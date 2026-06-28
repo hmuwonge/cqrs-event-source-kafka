@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Confluent.Kafka/2.14.2": {
@@ -276,11 +276,41 @@
       "CQRS.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "MongoDB.Bson": "3.9.0"
+        },
         "compile": {
           "bin/placeholder/CQRS.Core.dll": {}
         },
         "runtime": {
           "bin/placeholder/CQRS.Core.dll": {}
+        }
+      },
+      "Post.Cmd.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0",
+          "Post.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Cmd.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Cmd.Domain.dll": {}
+        }
+      },
+      "Post.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "CQRS.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Post.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Post.Common.dll": {}
         }
       }
     }
@@ -599,6 +629,16 @@
       "type": "project",
       "path": "../../../CQRS.Core/CQRS.Core.csproj",
       "msbuildProject": "../../../CQRS.Core/CQRS.Core.csproj"
+    },
+    "Post.Cmd.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Post.Cmd.Domain/Post.Cmd.Domain.csproj",
+      "msbuildProject": "../Post.Cmd.Domain/Post.Cmd.Domain.csproj"
+    },
+    "Post.Common/1.0.0": {
+      "type": "project",
+      "path": "../../Post.Common/Post.Common.csproj",
+      "msbuildProject": "../../Post.Common/Post.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -606,7 +646,8 @@
       "CQRS.Core >= 1.0.0",
       "Confluent.Kafka >= 2.14.2",
       "Microsoft.Extensions.Options >= 10.0.9",
-      "MongoDB.Driver >= 3.9.0"
+      "MongoDB.Driver >= 3.9.0",
+      "Post.Cmd.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -640,10 +681,14 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
             "D:\\LEARN\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
               "projectPath": "D:\\LEARN\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj"
+            },
+            "D:\\LEARN\\CQRS-ES\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj": {
+              "projectPath": "D:\\LEARN\\CQRS-ES\\SM-Post\\Post.Cmd\\Post.Cmd.Domain\\Post.Cmd.Domain.csproj"
             }
           }
         }
@@ -662,6 +707,7 @@
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Confluent.Kafka": {

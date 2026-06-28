@@ -1,10 +1,26 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
+      "MongoDB.Bson/3.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/MongoDB.Bson.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/MongoDB.Bson.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "CQRS.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "MongoDB.Bson": "3.9.0"
+        },
         "compile": {
           "bin/placeholder/CQRS.Core.dll": {}
         },
@@ -15,6 +31,25 @@
     }
   },
   "libraries": {
+    "MongoDB.Bson/3.9.0": {
+      "sha512": "J6vB61zKwMSfxbkN+/amGvj1qVMDKrKjV3kmoOWttMcv8JJScLDCFh89FyL3f2lDUyJrnfgZCR6/KX+07e99eg==",
+      "type": "package",
+      "path": "mongodb.bson/3.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net472/MongoDB.Bson.dll",
+        "lib/net472/MongoDB.Bson.xml",
+        "lib/net6.0/MongoDB.Bson.dll",
+        "lib/net6.0/MongoDB.Bson.xml",
+        "lib/netstandard2.1/MongoDB.Bson.dll",
+        "lib/netstandard2.1/MongoDB.Bson.xml",
+        "mongodb.bson.3.9.0.nupkg.sha512",
+        "mongodb.bson.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "CQRS.Core/1.0.0": {
       "type": "project",
       "path": "../../CQRS.Core/CQRS.Core.csproj",
@@ -57,6 +92,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
             "D:\\LEARN\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj": {
@@ -79,6 +115,7 @@
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",

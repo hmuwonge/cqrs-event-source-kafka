@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qh147t3XnWY=",
+  "dgSpecHash": "7KW1BIc00cQ=",
   "success": true,
   "projectFilePath": "D:\\LEARN\\CQRS-ES\\CQRS.Core\\CQRS.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SAAVASOFT\\.nuget\\packages\\mongodb.bson\\3.9.0\\mongodb.bson.3.9.0.nupkg.sha512"
+  ],
   "logs": []
 }

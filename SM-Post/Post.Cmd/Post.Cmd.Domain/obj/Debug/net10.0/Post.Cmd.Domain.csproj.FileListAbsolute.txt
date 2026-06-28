@@ -10,3 +10,9 @@ D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\refint\Post.
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.pdb
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\ref\Post.Cmd.Domain.dll
 D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.sourcelink.json
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net10.0\CQRS.Core.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Common.dll
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net10.0\CQRS.Core.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\bin\Debug\net10.0\Post.Common.pdb
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.Domain.csproj.AssemblyReference.cache
+D:\LEARN\CQRS-ES\SM-Post\Post.Cmd\Post.Cmd.Domain\obj\Debug\net10.0\Post.Cmd.1A443DE5.Up2Date

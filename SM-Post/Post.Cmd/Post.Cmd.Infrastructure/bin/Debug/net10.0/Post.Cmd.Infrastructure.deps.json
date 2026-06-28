@@ -11,7 +11,8 @@
           "CQRS.Core": "1.0.0",
           "Confluent.Kafka": "2.14.2",
           "Microsoft.Extensions.Options": "10.0.9",
-          "MongoDB.Driver": "3.9.0"
+          "MongoDB.Driver": "3.9.0",
+          "Post.Cmd.Domain": "1.0.0"
         },
         "runtime": {
           "Post.Cmd.Infrastructure.dll": {}
@@ -255,8 +256,34 @@
         }
       },
       "CQRS.Core/1.0.0": {
+        "dependencies": {
+          "MongoDB.Bson": "3.9.0"
+        },
         "runtime": {
           "CQRS.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Post.Cmd.Domain/1.0.0": {
+        "dependencies": {
+          "CQRS.Core": "1.0.0",
+          "Post.Common": "1.0.0"
+        },
+        "runtime": {
+          "Post.Cmd.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Post.Common/1.0.0": {
+        "dependencies": {
+          "CQRS.Core": "1.0.0"
+        },
+        "runtime": {
+          "Post.Common.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -355,6 +382,16 @@
       "hashPath": "zstdsharp.port.0.7.3.nupkg.sha512"
     },
     "CQRS.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Post.Cmd.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Post.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
